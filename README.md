@@ -45,9 +45,9 @@ The current design serves as a baseline for the project goals described above.  
 
 ## Authors
 
-* **Aidan Phillips** - [-]()
-* **Naomi T. Fitter** - [-]()
-* **Ashwin Vinoo** - [-]()
+* **Aidan Phillips** - aidan.instance@gmail.com [-]()
+* **Naomi T. Fitter** - naomi.fitter@oregonstate.edu[-]()
+* **Ashwin Vinoo** - vinooa@oregonstate.edu[-]()
 
 
 ## License
