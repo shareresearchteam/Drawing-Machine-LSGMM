@@ -113,16 +113,15 @@ void setup() {
   driver2.microsteps(usteps);
   driver2.interpolate(0);
 
-  /*loadCell_1.begin(DOUT1, CLK1);
-    loadCell_1.set_scale(LOADCELL_DIVIDER);
-    loadCell_1.set_offset(LOADCELL_OFFSET);
-    loadCell_1.tare();
+  loadCell_1.begin(DOUT1, CLK1);
+  loadCell_1.set_scale(LOADCELL_DIVIDER);
+  loadCell_1.set_offset(LOADCELL_OFFSET);
+  loadCell_1.tare();
 
-    loadCell_2.begin(DOUT2, CLK2);
-    loadCell_2.set_scale(LOADCELL_DIVIDER);
-    loadCell_2.set_offset(LOADCELL_OFFSET);
-    loadCell_2.tare();*/
-//delay(5000);
+  loadCell_2.begin(DOUT2, CLK2);
+  loadCell_2.set_scale(LOADCELL_DIVIDER);
+  loadCell_2.set_offset(LOADCELL_OFFSET);
+  loadCell_2.tare();
   servo1.attach(23);
   lift(1);
 
@@ -142,36 +141,13 @@ void setup() {
   //***********************************************
 
 
-  //pinMode(23, OUTPUT);
-  //analogWriteFrequency(23, 20000);
-  //analogWrite(23, 39);
-  //encoder_cal();
-  //cal_menu();
-  SD_run();
-  //cal_menu();
-  //bez_node();
-  //ws();            // ----------------------> DAY ONE DRAWING
-  //string2();      // ----------------------> DAY TWO DRAWING
-
-  /*double is = return_X_pos()-3.5;
-    double js = return_Y_pos();
-
-    for (double i = is; i < is+7; i+=.05) {
-      for (double j = js; j < js+4; j+=.05) {
-
-      rect2(i, j, .05, .05)  ;
-
-      }
-    }*/
-
-
-  //Serial.println(1 + 4 * (double)max(min(loadCell_2.get_units() * 6, 1), 0));
-
+  cal_menu();   // Calibration Routine, Guided by serial commands
+  //bez_node(); // ----------------------> Bezier DRAWING
+  //ws();       // ----------------------->  Worn Structure DRAWING
 }
 
 void loop() {
-  // delay(35);
-  // Serial.println(enc_right.read());
+
 }
 
 // Function that returns the number of steps needed for the left motor to reach
