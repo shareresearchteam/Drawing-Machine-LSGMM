@@ -40,7 +40,7 @@ The current design serves as a baseline for the project goals described above.  
 
 13. Center the pen to a desired location and measure the string lengths.  Input these initial conditions into the LSGMM.ino file and run the cal_menu() function in the void setup().
 
-![Alt text](Helpful_Images/Base_Plate.jpg?raw=true "Title")
+![Alt text](Helpful_Images/Base_Plate.png?raw=true "Title")
 
 
 ## Authors
