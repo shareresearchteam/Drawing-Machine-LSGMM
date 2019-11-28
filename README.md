@@ -8,6 +8,11 @@ The current design serves as a baseline for the project goals described above.  
 
 ![Alt text](Helpful_Images/Large_Scale_Plotter.jpg?raw=true "Title")
 
+## File Guide
+
+
+
+
 ## Getting Started
 
 1. Aquire parts similar or equal to that on the 'Parts List' spread sheet
@@ -43,7 +48,9 @@ The current design serves as a baseline for the project goals described above.  
 ![Alt text](Helpful_Images/Base_Plate.png?raw=true "Title")
 
 
-## Authors
+## Reference
+
+A. Phillips, N. Fitter, and A Vinoo, "May I Draw Your Attention?  Initial Lessons from the Large-Scale Generative Mark Maker", The IEEE International Conference on Robotics and Automation [Pending], 2019.
 
 * **Aidan Phillips** - aidan.instance@gmail.com [-]()
 * **Naomi T. Fitter** - naomi.fitter@oregonstate.edu[-]()
