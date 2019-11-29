@@ -15,13 +15,13 @@ The current design serves as a baseline for the project goals described above.  
 - Libraries used within the LSGMM code base.  Add these to the Library Arduino folder before compilation.
 
 **Hardware Assembly**:
-- 3D print models
+- 3D print models used in LSGMM hardware.  Fusion 360 and .stl files available for all parts.
 - Basic assembly instructions
 - Bill of Materials 
 
 **Media**:
-- Exhibition Drawings
-- Introductory project video
+- Exhibition drawing images of the two designs ('Bezier Node' and 'Worn Structure') from the study exhibitions.
+- Introductory project video 
 
 ## Reference
 
