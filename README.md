@@ -6,7 +6,7 @@ Drawing machines, and hanging pen plotters in particular, have been widely imple
 
 The current design serves as a baseline for the project goals described above.  It is our hope that others with overlapping goals can utilize or build on the open source software and hardware.
 
-![Alt text](Helpful_Images/Large_Scale_Plotter.jpg?raw=true "Title")
+![Alt text](Large_Scale_Plotter.jpg?raw=true "Title")
 
 ## File Guide
 
