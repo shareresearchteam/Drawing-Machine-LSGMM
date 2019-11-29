@@ -11,7 +11,7 @@ The current design serves as a baseline for the project goals described above.  
 ## File Guide
 
 **Code Base**:
-- Code base used to program Teensy 3.5 micro-controller via the Arduino IDE.  The setup and loop functions are located within the main file LSGMM.ino.  The code for the 'Bezier Node' drawing can be found in the node_bezier_alg.ino file.  The code for the 'Worn Structure' drawing can be found in the worn_structue.ino file.
+- Code base used to program Teensy 3.5 micro-controller via the Arduino IDE.  The setup and loop functions are located within the main file LSGMM_code.ino.  The code for the 'Bezier Node' drawing can be found in the node_bezier_alg.ino file.  The code for the 'Worn Structure' drawing can be found in the worn_structue.ino file.
 - Libraries used within the LSGMM code base.  Add these to the Library Arduino folder before compilation.
 
 **Hardware Assembly**:
