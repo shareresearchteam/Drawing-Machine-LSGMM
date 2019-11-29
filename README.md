@@ -1,4 +1,4 @@
-# LSGMM (Large-Scale Generative Mark Maker)
+# LSGMM (Large-Scale Generative Mark Maker) Project Open-Source Repository
 
 This machine provides the foundation for a human-robot interaction study that examines viewer interest with respect to process-centric and audience-modifiable abstract drawings.  A minimalistic design approach was used to highlight the aesthetic effect of the drawing and the machine’s motion as opposed to its visual presence.  Viewer interaction will manifest in slight, yet immediate and identifiable marks that stitch together a piece over the course of days or even weeks.  Witnessing the arc of a macroscopic structure appear, and the microscopic contributions from past viewers, is fundamental to the research, and the installation as a whole.
 
@@ -25,7 +25,7 @@ The current design serves as a baseline for the project goals described above.  
 
 ## Reference
 
-A. Phillips, N. Fitter, and A Vinoo, "May I Draw Your Attention?  Initial Lessons from the Large-Scale Generative Mark Maker", The IEEE International Conference on Robotics and Automation [Pending], 2019.
+A. Phillips, N. Fitter, and A Vinoo, "May I Draw Your Attention?  Initial Lessons from the Large-Scale Generative Mark Maker", Under review for publication in Robotics and Automation Letters (RA-L) and presentation at the 2019 IEEE International Conference on Robotics and Automation (ICRA).
 
 * **Aidan Phillips** - aidan.instance@gmail.com []()
 * **Naomi T. Fitter** - naomi.fitter@oregonstate.edu[]()
