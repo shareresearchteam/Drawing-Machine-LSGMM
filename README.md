@@ -17,6 +17,7 @@ Fusion 360, and raw stl files for 3D printed hardware components.
 Drawings from the two locations the LSGMM was exhibited at.  At the OSU woodshed gallery, a drawing titled 'Bezier Node' was showcased, where points connect in complex patterns to highlight the intricacies of microscope design, and the resultant emergent macro-scale.  At the Majestic Theater, a piece titled 'Worn Structure' incorporates a viewer interactive component such that a visual history is evident.
 
 **Helpful_Images**:
+Default file path for images used in the readme file.
 
 **LSGMM**: 
 Code base used to program Teensy 3.5 micro-controller via the Arduino IDE.  The setup and loop functions are located within the main file LSGMM.ino.  The code for the 'Bezier Node' drawing can be found in the node_bezier_alg.ino file.  The code for the 'Worn Structure' drawing can be found in the worn_structue.ino file.
@@ -25,7 +26,7 @@ Code base used to program Teensy 3.5 micro-controller via the Arduino IDE.  The 
 Libraries used within the LSGMM code base.  Add these to the Library Arduino folder before compilation.
 
 
-## Getting Started
+## Hardware Assembly Basics
 
 1. Aquire parts similar or equal to that on the 'Parts List' spread sheet
 
